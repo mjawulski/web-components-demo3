@@ -20,6 +20,8 @@ class App extends Component {
             Learn React
           </a>
         </header>
+        <cookie-info></cookie-info>
+        <cookies-info></cookies-info>
       </div>
     );
   }
